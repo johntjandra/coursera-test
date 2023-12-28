@@ -1,2 +1,2 @@
-# mathies
-Mathies repository
+# coursera_test
+Coursera test repository
